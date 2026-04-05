@@ -111,7 +111,7 @@ The project shows how different modeling approaches impact prediction accuracy, 
 
 ## 📚 Notes
 
-This project was developed for educational purposes במסגרת the **Artificial Intelligence Course at Samsung Innovation Campus**, and is intended as a practical application of machine learning models to real-world problems.
+This project was developed for educational purposes during the **Artificial Intelligence Course at Samsung Innovation Campus**, and is intended as a practical application of machine learning models to real-world problems.
 
 ---
 
